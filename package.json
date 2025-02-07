@@ -1,0 +1,10 @@
+{
+  "name": "dembrandt-skills",
+  "version": "0.1.0",
+  "description": "Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
