@@ -1,6 +1,6 @@
 {
   "name": "dembrandt-skills",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.",
   "main": "src/index.js",
   "scripts": {
